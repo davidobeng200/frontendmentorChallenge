@@ -21,8 +21,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository]([https://your-solution-url.com](https://github.com/davidobeng200/frontendmentorChallenge.git))
+- Live Site URL: [GitHub Pages](https://davidobeng200.github.io/frontendmentorChallenge/)
 
 
 
