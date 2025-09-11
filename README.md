@@ -21,7 +21,7 @@
 
 ### Links
 
-- Solution URL: [Github Repository]([https://your-solution-url.com](https://github.com/davidobeng200/frontendmentorChallenge.git))
+- Solution URL: [Github Repository](https://github.com/davidobeng200/frontendmentorChallenge.git)
 - Live Site URL: [GitHub Pages](https://davidobeng200.github.io/frontendmentorChallenge/)
 
 
